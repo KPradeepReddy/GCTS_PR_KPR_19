@@ -1,0 +1,3 @@
+  METHOD m1.
+
+  ENDMETHOD.
