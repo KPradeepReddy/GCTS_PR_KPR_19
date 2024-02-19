@@ -1,0 +1,12 @@
+{
+  "name": "kpradeepreddy-gcts_pr_kpr_19",
+  "version": "1.0.0",
+  "description": "KPradeepReddy-GCTS_PR_KPR_19",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "subdirectory": "src/"
+  }
+}
